@@ -37,6 +37,24 @@ Desenvolvida com foco em boas práticas, reutilização de componentes e estrutu
     expo start
 
 
+
+## **Contribuição**  
+Contribuições são bem-vindas! Siga os passos abaixo para contribuir:  
+1. Faça um fork do projeto.  
+2. Crie uma nova branch com sua funcionalidade:  
+   ```bash
+   git checkout -b minha-feature
+   ```  
+3. Faça suas alterações e commit:  
+   ```bash
+   git commit -m "Minha nova funcionalidade"
+   ```  
+4. Envie para o repositório principal:  
+   ```bash
+   git push origin minha-feature
+   ```  
+
+
 ## Desenvolvedores
 
 <a href="https://github.com/nathaliakoetz"><img src="https://github.com/nathaliakoetz.png" width="100" height="100"></a> 
