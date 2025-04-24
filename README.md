@@ -29,13 +29,15 @@ Desenvolvida com foco em boas práticas, reutilização de componentes e estrutu
    ```bash
    git clone https://github.com/seu-usuario/LuthStore.git
    cd LuthStore
+   ```
 2. Instale as dependências:
    ```bash
    npm install
+   ```
 3. Inicie o servidor de desenvolvimento:
     ```bash
     expo start
-
+    ```
 
 
 ## **Contribuição**  
