@@ -1,7 +1,6 @@
 #  LuthStore
 
-LuthStore é uma aplicação web construída com **React Native Web** e **Expo**, simulando uma loja virtual de instrumentos musicais.  
-Desenvolvida com foco em boas práticas, reutilização de componentes e estrutura organizada, a aplicação permite a navegação por produtos, autenticação de usuários e gerenciamento por parte do administrador.
+LuthStore é uma aplicação web construída com **React Native Web** e **Expo**, simulando uma loja virtual de instrumentos musicais. Desenvolvida com foco em boas práticas, reutilização de componentes e estrutura organizada, a aplicação permite a navegação por produtos, autenticação de usuários e gerenciamento por parte do administrador.
 
 
 ##  Funcionalidades
