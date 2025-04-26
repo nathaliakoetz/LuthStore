@@ -58,10 +58,8 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 
 ## Desenvolvedores
 
-<a href="https://github.com/nathaliakoetz"><img src="https://github.com/nathaliakoetz.png" width="100" height="100"></a> 
 <a href="https://github.com/FZundler"><img src="https://github.com/FZundler.png" width="100" height="100"></a>
-- **Nathalia Koetz**: Responsável pelo front-end e design da aplicação.
-- **Felipe Zundler**: Responsável pela parte do back-end e revisão do código.
+- **Felipe Zundler**
 
 
 ## **Licença**  
